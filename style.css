@@ -1,0 +1,38 @@
+.si {
+  width: 1920px;
+  height: 1080px;
+  top: -8206px;
+  left: -9849px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bg {
+  width: 670px;
+  height: 960px;
+  top: 60px;
+  left: 625px;
+  border-radius: 20px;
+  border: 1px solid #aacdff;
+  box-shadow: 7px 7px 39px 0px #0068ff40;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+  box-sizing: border-box;
+  padding: 72px;
+}
+
+#text {
+  width: 466px;
+  height: 94px;
+  top: 132px;
+  left: 725px;
+  font-family: Noto Sans CJK KR;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #0068ff;
+}
